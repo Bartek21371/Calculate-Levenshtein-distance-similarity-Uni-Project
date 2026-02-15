@@ -13,7 +13,7 @@ Project made as part of the subject **Basics of Programming** in first semester.
 
 ---
 
-## ⚙️ Functionaliti
+## ⚙️ Functionality
 
 - ✔️ Calculation Levenshtein distance
 - ✔️ Calculation percentage similarity of texts
