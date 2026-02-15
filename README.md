@@ -37,9 +37,9 @@ Algorithm **Levenshtein** work in time:
 ## 📂 Format of entry file
 
 Entry file must has **two lines**:
->first text
->second text
+first text  
+second text
 
-## 📊 Sample result
->Levenshtein distance: 3
->Levenshtein similarity in percent: 62.5%
+## 📊 Sample result:
+Levenshtein distance: 3      
+Levenshtein similarity in percent: 62.5%
