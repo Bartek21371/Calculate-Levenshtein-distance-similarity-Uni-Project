@@ -1,4 +1,4 @@
-// Bartosz Marcińczyk TIN 290480
+// Bartosz Marcińczyk
 // Program calculates Levenshtein distance and similarity
 // for two words or sentences provided by user or file
 
